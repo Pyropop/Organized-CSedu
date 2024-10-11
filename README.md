@@ -5,12 +5,12 @@
 </h1>
 
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
-<h2 align="right">
+<h5 align="right">
     Se nærmere på!
     <br>
     -✨ [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
     <br>
-</h2>
+</h5>
 # Best-websites-a-programmer-should-visit
 Some useful websites for programmers.
 
